@@ -31,3 +31,4 @@ This project is licensed under [AGPL-3.0 license](./LICENSE) - see the LICENSE f
 ## Acknowledgements
 - Thanks to the Traffic-Violation-Report-System team for their foundational server work.
 - Gratitude to all contributors and community members for their support.
+- We embrace the open community.
